@@ -11,14 +11,17 @@ npm-debug.log
 !config/*
 !karma.conf.js
 !webpack.config.js
+!dist/*/*
 *.map
+!dist/*/*
 *.d.ts
+!dist/*
+!dist/*/*
 !make.js
 coverage
 *.metadata.json
-bundles
+!dist/*
 .vscode
-dist
 
 #################
 ## JetBrains
